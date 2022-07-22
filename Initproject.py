@@ -3,6 +3,7 @@ from multiprocessing.sharedctypes import Value
 print(' ')
 print(' ')
 print(' ')
+print('zmiana na lepsze ')
 print(' ')
 
 sklep  = {
