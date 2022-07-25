@@ -1,6 +1,8 @@
 from multiprocessing.sharedctypes import Value
 
 print(' ')
+print(' ')
+print(' nowa zmiana 2 ')
 print(' Pozdrawia ! ')
 print(' ')
 print('zmiana na lepsze ')
